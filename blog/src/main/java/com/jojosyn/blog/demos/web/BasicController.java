@@ -16,8 +16,6 @@
 
 package com.jojosyn.blog.demos.web;
 
-import com.sun.deploy.nativesandbox.comm.Response;
-import org.jboss.jandex.Result;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
